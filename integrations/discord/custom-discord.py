@@ -1,9 +1,9 @@
-# ==============================================================================
+# =============================================================================#
 # Script de Integración Wazuh - Discord                                        #
 #                                                                              #
 # Este script fue obtenido y adaptado a partir del repositorio:                #
 # https://github.com/maikroservice/wazuh-integrations/tree/main/discord        #
-# ==============================================================================
+# =============================================================================#
 
 #/usr/bin/env python3
 
