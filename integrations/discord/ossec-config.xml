@@ -1,5 +1,4 @@
-#xml
-
+<!-- Fragmento de configuración de integración añadido a /var/ossec/etc/ossec.conf -->
 <integration>
   <name>custom-discord</name>
   <hook_url>#TU_DISCORD-WEBHOOK_AQUI#</hook_url>
