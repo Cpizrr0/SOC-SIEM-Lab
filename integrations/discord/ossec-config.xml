@@ -2,7 +2,7 @@
 
 <integration>
   <name>custom-discord</name>
-  <hook_url>TU_DISCORD-WEBHOOK_AQUI</hook_url>
-  <level>5</level>
+  <hook_url>#TU_DISCORD-WEBHOOK_AQUI#</hook_url>
+  <level>#Lvl#</level>
   <alert_format>json</alert_format>
 </integration>
