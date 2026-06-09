@@ -12,7 +12,7 @@ El entorno está diseñado de forma modular y consta de los siguientes component
 *   **Monitoreo Endpoint Windows:** Agente Wazuh + Sysmon para visibilidad profunda del sistema operativo.
 
 ```text
-     Endpoint Windows ] (Wazuh Agent + Sysmon) ───► [ Wazuh Server ] ──► [ Wazuh Dashboard ]
+    [ Endpoint Windows ] (Wazuh Agent + Sysmon) ───► [ Wazuh Server ] ──► [ Wazuh Dashboard ]
 
 ---
 ## 🚀 Estado Actual del Proyecto
